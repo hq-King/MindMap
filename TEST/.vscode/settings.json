@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "MOUSE.C": "cpp",
+        "system_error": "c",
+        "xlocale": "c",
+        "SAVE.C": "cpp",
+        "common.h": "c",
+        "process.h": "c",
+        "menu.h": "c",
+        "ostream": "c",
+        "xlocnum": "c",
+        "menufunc.h": "c",
+        "mpfunc.h": "c",
+        "popup.h": "c",
+        "hz.h": "c",
+        "user.h": "c",
+        "compare.h": "c",
+        "history.h": "c",
+        "community.h": "c",
+        "file.h": "c",
+        "input.h": "c",
+        "drawmenu.h": "c"
+    }
+}
